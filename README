@@ -1,1 +1,9 @@
-my personal website
+<!doctype html>
+<html>
+<head>
+<title>My Personal Website</title>
+</head>
+ <body>
+  <h1>My Personal Website</h1>
+ </body>
+</html>
